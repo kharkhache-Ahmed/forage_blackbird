@@ -1,7 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const logo = "https://cdn-ikponof.nitrocdn.com/vGqfYAGlOLDkYkJqZhYIYKEsibdbZnkc/assets/images/optimized/rev-f684a87/www.propelleraero.com/wp-content/uploads/2023/05/footer-logo.svg";
   return (
     <div className="App">
       <header className="App-header">
